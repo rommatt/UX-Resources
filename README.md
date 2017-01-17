@@ -3,6 +3,10 @@
 
 <h3>UX</h3>
 
+https://www.nngroup.com/articles/discount-usability-20-years/ // Discount usability
+
+https://www.nngroup.com/articles/ux-ideation/  // UX Ideation (braistorming)
+
 http://scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack#error  // Application states (empty/partial/resolved)
 
 https://uxdesign.cc/3-areas-of-focus-if-youre-looking-for-a-job-as-an-associate-ux-designer-in-2017-60e50e196c34#.8ck1ql4sx // Areas of focus in 2017
