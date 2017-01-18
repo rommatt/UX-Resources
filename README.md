@@ -106,6 +106,8 @@ https://www.udacity.com/course/web-accessibility--ud891
 
 <h3>Crafting Style Guides</h3>
 
+https://frontify.com/styleguide
+
 https://uxdesign.cc/how-to-get-a-head-start-on-design-system-8a217676c1f9#.hc1tb7w67
 
 <h3>Service Design</h3>
