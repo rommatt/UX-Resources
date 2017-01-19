@@ -3,6 +3,8 @@
 
 <h3>UX</h3>
 
+https://uxdesign.cc/designing-confirmation-278d159723e#.kl9j8hwij  // Designing confirmation actions
+
 https://www.nngroup.com/articles/discount-usability-20-years/ // Discount usability
 
 https://www.nngroup.com/articles/ux-ideation/  // UX Ideation (braistorming)
