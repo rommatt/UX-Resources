@@ -2,6 +2,9 @@
 
 
 <h3>UX</h3>
+
+https://uxdesign.cc/designchallenge-cd7bdb589855#.7m4pqm36k  // Getting better at whiteboard sessions
+
 https://uxdesign.cc/design-better-forms-96fadca0f49c#.t59lc6wq5  // Better form design
 
 https://uxdesign.cc/designing-confirmation-278d159723e#.kl9j8hwij  // Designing confirmation actions
