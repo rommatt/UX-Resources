@@ -3,6 +3,8 @@
 
 <h3>UX</h3>
 
+https://medium.com/springboard/the-7-questions-youll-be-asked-at-a-ux-design-interview-84f3214e0f29#.4mvc83lbw  // Questions at a UX interview
+
 https://www.nngroup.com/articles/ux-research-cheat-sheet/
 
 https://uxdesign.cc/designchallenge-cd7bdb589855#.7m4pqm36k  // Getting better at whiteboard sessions
