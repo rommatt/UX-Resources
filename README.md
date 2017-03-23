@@ -42,10 +42,6 @@ https://thedesignteam.io/the-design-process-67df3e8ec68f#.dxzwu0hll
 
 https://medium.com/@order_group/common-mistakes-in-ux-ui-fd314d0b3a9f#.qmgd192cg
 
-http://uxstudio.hu/ux-blog/the-two-step-method-to-organize-100s-of-pages-into-a-usable-menu-structure/  // personas / card sorting
-
-https://www.smashingmagazine.com/2014/08/a-closer-look-at-personas-part-1/
-
 https://www.smashingmagazine.com/2011/03/lean-ux-getting-out-of-the-deliverables-business/
 
 https://24ways.org/
@@ -111,6 +107,14 @@ http://nform.com/cards/
 http://www.nngroup.com/articles/quantitative-studies-how-many-users/
 
 http://blog.usabilitytools.com/13-awesome-prototyping-tools-designers/
+
+<h3>Personas</h3>
+
+https://www.usability.gov/how-to-and-tools/methods/personas.html
+
+http://uxstudio.hu/ux-blog/the-two-step-method-to-organize-100s-of-pages-into-a-usable-menu-structure/  // personas / card sorting
+
+https://www.smashingmagazine.com/2014/08/a-closer-look-at-personas-part-1/
 
 <h3>Accessibility</h3>
 
