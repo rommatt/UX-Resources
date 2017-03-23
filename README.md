@@ -110,6 +110,8 @@ http://blog.usabilitytools.com/13-awesome-prototyping-tools-designers/
 
 <h3>Personas</h3>
 
+https://www.nngroup.com/articles/persona/
+
 https://www.usability.gov/how-to-and-tools/methods/personas.html
 
 http://uxstudio.hu/ux-blog/the-two-step-method-to-organize-100s-of-pages-into-a-usable-menu-structure/  // personas / card sorting
