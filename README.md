@@ -3,6 +3,8 @@
 
 <h3>UX</h3>
 
+Repository for UX related resources
+
 https://uxdesign.cc/ux-design-methods-deliverables-657f54ce3c7d#.ykyeni38l // List of UX deliverables
 
 https://medium.com/springboard/the-7-questions-youll-be-asked-at-a-ux-design-interview-84f3214e0f29#.4mvc83lbw  // Questions at a UX interview
@@ -123,6 +125,8 @@ https://www.smashingmagazine.com/2014/08/a-closer-look-at-personas-part-1/
 https://www.udacity.com/course/web-accessibility--ud891
 
 <h3>Crafting Style Guides</h3>
+
+https://medium.com/inspiration-supply/style-guides-by-pro-designers-5605707afc07  // List of designer style guides
 
 https://frontify.com/styleguide
 
