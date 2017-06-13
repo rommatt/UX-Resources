@@ -139,3 +139,7 @@ https://www.lightningdesignsystem.com/
 https://uxdesign.cc/whats-service-design-and-why-does-it-matter-5025ca624f2#.d7aj9wpi4
 
 http://www.practicalservicedesign.com/service-design-101/
+
+<h3>UX Writing</h3>
+
+https://uxplanet.org/ux-writing-how-to-do-it-like-google-with-this-powerful-checklist-e263cc37f5f1
