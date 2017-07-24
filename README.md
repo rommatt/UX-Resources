@@ -122,6 +122,8 @@ https://www.smashingmagazine.com/2014/08/a-closer-look-at-personas-part-1/
 
 <h3>Accessibility</h3>
 
+http://contrastchecker.com/  /// Contrast checker for WCAG
+
 https://www.udacity.com/course/web-accessibility--ud891
 
 <h3>Crafting Style Guides</h3>
