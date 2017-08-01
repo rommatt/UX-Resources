@@ -5,6 +5,8 @@
 
 Repository for UX related resources
 
+https://uxplanet.org/ux-on-the-corporate-battlefield-3f2c85e80920 // UX in the corporate world
+
 https://uxdesign.cc/ux-design-methods-deliverables-657f54ce3c7d#.ykyeni38l // List of UX deliverables
 
 https://medium.com/springboard/the-7-questions-youll-be-asked-at-a-ux-design-interview-84f3214e0f29#.4mvc83lbw  // Questions at a UX interview
