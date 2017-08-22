@@ -5,6 +5,8 @@
 
 Repository for UX related resources
 
+https://www.nngroup.com/articles/tabs-used-right/ // Tabs best practices
+
 https://uxplanet.org/ux-on-the-corporate-battlefield-3f2c85e80920 // UX in the corporate world
 
 https://uxdesign.cc/ux-design-methods-deliverables-657f54ce3c7d#.ykyeni38l // List of UX deliverables
