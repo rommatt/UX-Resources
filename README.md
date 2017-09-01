@@ -5,6 +5,8 @@
 
 Repository for UX related resources
 
+http://www.userjourneys.com/blog/ux-guidelines-for-error-handling/  // Error Handling
+
 https://www.nngroup.com/articles/tabs-used-right/ // Tabs best practices
 
 https://uxplanet.org/ux-on-the-corporate-battlefield-3f2c85e80920 // UX in the corporate world
