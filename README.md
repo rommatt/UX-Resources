@@ -5,6 +5,8 @@
 
 Repository for UX related resources
 
+https://www.process.st/checklist/ux-design-process/  // UX Delivery process checklist
+
 https://medium.com/@andrew.burton/form-validation-best-practices-8e3bec7d0549  // Form validation best practices
 
 http://www.userjourneys.com/blog/ux-guidelines-for-error-handling/  // Error Handling
