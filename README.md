@@ -5,6 +5,8 @@
 
 Repository for UX related resources
 
+https://www.cmswire.com/customer-experience/13-must-have-user-experience-ux-design-skills/ // Baruch commented on this
+
 https://www.process.st/checklist/ux-design-process/  // UX Delivery process checklist
 
 https://medium.com/@andrew.burton/form-validation-best-practices-8e3bec7d0549  // Form validation best practices
