@@ -5,6 +5,8 @@
 
 Repository for UX related resources
 
+https://www.interaction-design.org/courses -- free certifications
+
 https://www.cmswire.com/customer-experience/13-must-have-user-experience-ux-design-skills/ // Baruch commented on this
 
 https://www.process.st/checklist/ux-design-process/  // UX Delivery process checklist
