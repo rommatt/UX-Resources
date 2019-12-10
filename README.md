@@ -8,6 +8,8 @@ https://library.gv.com/gv-guide-to-uxresearch-for-startups-b6d0c8ac81b3
 
 https://medium.com/sketch-app-sources/user-journey-maps-or-user-flows-what-to-do-first-48e825e73aa8
 
+https://blog.prototypr.io/user-flows-in-sketch-step-by-step-guide-to-create-them-quickly-9dd130e0dd36
+
 <h3>UX</h3>
 
 Repository for UX related resources
