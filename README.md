@@ -4,6 +4,10 @@
 
 https://library.gv.com/gv-guide-to-uxresearch-for-startups-b6d0c8ac81b3
 
+<h3>User Journey Maps / User Flows</h3>
+
+https://medium.com/sketch-app-sources/user-journey-maps-or-user-flows-what-to-do-first-48e825e73aa8
+
 <h3>UX</h3>
 
 Repository for UX related resources
