@@ -14,6 +14,8 @@ https://blog.prototypr.io/user-flows-in-sketch-step-by-step-guide-to-create-them
 
 Repository for UX related resources
 
+https://growth.design/case-studies/
+
 https://www.interaction-design.org/courses -- free certifications
 
 https://www.cmswire.com/customer-experience/13-must-have-user-experience-ux-design-skills/ // Baruch commented on this
