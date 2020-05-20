@@ -14,6 +14,8 @@ https://blog.prototypr.io/user-flows-in-sketch-step-by-step-guide-to-create-them
 
 Repository for UX related resources
 
+https://onezero.medium.com/why-everyone-always-hates-redesigns-even-when-theyre-good-26776604b5e9
+
 https://growth.design/case-studies/
 
 https://www.interaction-design.org/courses -- free certifications
