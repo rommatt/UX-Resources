@@ -4,6 +4,8 @@
 
 https://library.gv.com/gv-guide-to-uxresearch-for-startups-b6d0c8ac81b3
 
+https://usability.yale.edu/understanding-your-user/user-interviews/user-interview-example-questions // script template
+
 <h3>User Journey Maps / User Flows</h3>
 
 https://medium.com/sketch-app-sources/user-journey-maps-or-user-flows-what-to-do-first-48e825e73aa8
