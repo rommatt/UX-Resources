@@ -16,9 +16,15 @@ https://medium.com/sketch-app-sources/user-journey-maps-or-user-flows-what-to-do
 
 https://blog.prototypr.io/user-flows-in-sketch-step-by-step-guide-to-create-them-quickly-9dd130e0dd36
 
+<h3>User Behavior</h3>
+
+https://onezero.medium.com/why-everyone-always-hates-redesigns-even-when-theyre-good-26776604b5e9. // Endowment effect
+
+https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/endowment-effect/ // Endowment effect
+
 <h3>UX</h3>
 
-Repository for UX related resources
+Repository for general UX related resources
 
 https://onezero.medium.com/why-everyone-always-hates-redesigns-even-when-theyre-good-26776604b5e9
 
