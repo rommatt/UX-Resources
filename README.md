@@ -26,6 +26,8 @@ https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/endowment-
 
 Repository for general UX related resources
 
+https://medium.com/nextux/form-design-best-practices-9525c321d759.  // Form design
+
 https://onezero.medium.com/why-everyone-always-hates-redesigns-even-when-theyre-good-26776604b5e9
 
 https://growth.design/case-studies/
