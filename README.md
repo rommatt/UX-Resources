@@ -1,5 +1,13 @@
 # UX-Resources
 
+<h3>Content Audit</h3>
+
+https://www.robinrendle.com/notes/dont-draw-the-ui-draw-the-priority
+
+https://www.reddit.com/r/userexperience/comments/io6sfz/dont_draw_the_ui_draw_the_priority/
+
+https://alistapart.com/article/priority-guides-a-content-first-alternative-to-wireframes/
+
 <h3>User Research</h3>
 
 https://library.gv.com/gv-guide-to-uxresearch-for-startups-b6d0c8ac81b3
