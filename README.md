@@ -1,5 +1,9 @@
 # UX-Resources
 
+<h3>Arguments for</h3>
+
+https://iainbean.com/posts/2020/an-opinionated-guide-to-accessibility-testing/
+
 <h3>Content Audit</h3>
 
 https://www.robinrendle.com/notes/dont-draw-the-ui-draw-the-priority
