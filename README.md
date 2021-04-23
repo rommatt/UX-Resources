@@ -193,6 +193,10 @@ https://www.lightningdesignsystem.com/
 
 <h3>Service Design</h3>
 
+https://vimeo.com/212939377 // quick video explaining Service Design
+
+https://youtu.be/_BiWguJ9F94 // longer, example driven video explaining Service Design
+
 https://uxdesign.cc/whats-service-design-and-why-does-it-matter-5025ca624f2#.d7aj9wpi4
 
 http://www.practicalservicedesign.com/service-design-101/
