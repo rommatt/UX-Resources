@@ -4,6 +4,8 @@
 
 https://iainbean.com/posts/2020/an-opinionated-guide-to-accessibility-testing/
 
+https://www.reddit.com/r/userexperience/comments/stula5/a_guide_for_speaking_about_product_design_projects/ // good for new job interview
+
 <h3>Content Audit</h3>
 
 https://www.robinrendle.com/notes/dont-draw-the-ui-draw-the-priority
