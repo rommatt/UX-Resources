@@ -1,5 +1,9 @@
 # UX-Resources
 
+<h3>Figma</h3>
+
+https://www.reddit.com/r/FigmaDesign/comments/u6fcqp/designers_how_do_you_like_to_organize_your_files/
+
 <h3>Arguments for</h3>
 
 https://iainbean.com/posts/2020/an-opinionated-guide-to-accessibility-testing/
